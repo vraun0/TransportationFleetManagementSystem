@@ -1,0 +1,5 @@
+Car,Car1,Car,100.0,0.0,4,0.0,5,0,false
+Truck,Truck1,Truck,100.0,0.0,4,0.0,5000.0,0.0,false
+Bus,Bus1,Bus,100.0,0.0,4,0.0,50,0,500.0,0.0,false
+Airplane,Airplane1,Airplane,100.0,0.0,10000.0,0.0,200,0,10000.0,0.0,false
+CargoShip,CargoShip1,CargoShip,100.0,100.0,true,0.0,50000.0,0.0,false
